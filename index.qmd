@@ -33,21 +33,26 @@ El Dr. FADM realizó un presentación virtual sobre la identificación de los es
 El panel de expertos del CENAPRECE & OPS consistió de expertos en la materia consituido por los lideres de los programas estatales de prevención y control del dengue en México, investigadores mexicanos de Instituciones Académicas y los asesores expertos de OPS (la lista puede consultarse en la agenda o en el informe de la visita redactado por OPS).
 
 
-[Agenda de la Reunón de Visita de OPS]()
+### Agenda de la Reunión de Visita de OPS
 
-[![](agenda1.png)]()
+[link de la agenda completa](https://github.com/fdzul/panel_expertos/blob/main/Agenda%20Visita%20OPS%20a%20Meìxicov1.0.pdf)
 
-[![](agenda2.png)]()
+[![](agenda1.png)](https://github.com/fdzul/panel_expertos/blob/main/Agenda%20Visita%20OPS%20a%20Meìxicov1.0.pdf)
 
-[![](agenda3.png)]()
+[![](agenda2.png)](https://github.com/fdzul/panel_expertos/blob/main/Agenda%20Visita%20OPS%20a%20Meìxicov1.0.pdf)
+
+[![](agenda3.png)](https://github.com/fdzul/panel_expertos/blob/main/Agenda%20Visita%20OPS%20a%20Meìxicov1.0.pdf)
+
+### Presentación del Dr. Felipe Antonio Dzul Manzanilla
+
+[Presentación completa](https://imaginative-licorice-e8a663.netlify.app)
+
+[![screnshot de la presentación](caratula_presentacion.png)](https://imaginative-licorice-e8a663.netlify.app)
 
 
-[Presentación del Dr. FADM](https://imaginative-licorice-e8a663.netlify.app)
+### Evidencia fotográfica de la reunión
 
-[![](caratula_presentacion.png)](https://imaginative-licorice-e8a663.netlify.app)
-
-
-[Noticias reunión de panel de Expertos en el portal de la OPS](https://www.paho.org/es/noticias/24-9-2024-mexico-ops-fortalecen-cooperacion-tecnica-para-control-vector-dengue) 
+[Noticias de la reunión de panel de Expertos en el portal de la OPS](https://www.paho.org/es/noticias/24-9-2024-mexico-ops-fortalecen-cooperacion-tecnica-para-control-vector-dengue) 
 
 
 [![](https://www.paho.org/sites/default/files/colaboracion-ops-dengue-2024-mex-02-1400x666_0.jpg)]()
@@ -56,7 +61,7 @@ El panel de expertos del CENAPRECE & OPS consistió de expertos en la materia co
 [![](https://www.paho.org/sites/default/files/colaboracion-ops-dengue-2024-mex-03-1400x933_0.jpg)]()
 
 
-
+### Informe final de la reunión
 
 
 ## Conclusión
