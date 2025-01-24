@@ -15,10 +15,48 @@ execute:
 
 ## Introdución
 
+La Organización Panamerica de la Salud (OPS) en colaboración con el Centro Nacional de Prevención y Control de Enfermedades (CENAPRECE) realizó una visita de asesoría para el **Fortalecimiento las actividades de vigilancia y control del vector del Dengue en México** con el fortalecer las actividades de vigilancia y control del vector del dengue en México, a través de la colaboración con expertos regionales en entomología y control de vectores de la OPS/OMS, con el fin de intensificar las acciones de control entomológico y la implementación de nuevas tecnologías, especialmente en las regiones más afectadas en México.
+
+La visita se realizó del 9 al 12 de septiembre con sede en la Ciudad de México y Mérida, Yucatán. La reuniones consistieron presentaciones virtuales, presenciales y visitas en campo. El Dr. FADM realizó una presentación virtual (2024-09-10) y asistió al cierre de la visita (2024-09-12).
+
 ## Objetivo
+Presentar de los resultados al panel de expertos del CENAPRECE.
 
 ## Material & Métodos
 
+El Dr. FADM realizó un presentación virtual sobre la identificación de los escenarios operativos o epidemiológicos de la transmisión del dengue en México & participó en el cierre de la visita de la OPS.
+
 ## Resultados
+
+### Presentacion de los resultados al panel de expertos del CENAPRECE & OPS.
+
+El panel de expertos del CENAPRECE & OPS consistió de expertos en la materia consituido por los lideres de los programas estatales de prevención y control del dengue en México, investigadores mexicanos de Instituciones Académicas y los asesores expertos de OPS (la lista puede consultarse en la agenda o en el informe de la visita redactado por OPS).
+
+
+[Agenda de la Reunón de Visita de OPS]()
+
+[![](agenda1.png)]()
+
+[![](agenda2.png)]()
+
+[![](agenda3.png)]()
+
+
+[Presentación del Dr. FADM](https://imaginative-licorice-e8a663.netlify.app)
+
+[![](caratula_presentacion.png)](https://imaginative-licorice-e8a663.netlify.app)
+
+
+[Noticias reunión de panel de Expertos en el portal de la OPS](https://www.paho.org/es/noticias/24-9-2024-mexico-ops-fortalecen-cooperacion-tecnica-para-control-vector-dengue) 
+
+
+[![](https://www.paho.org/sites/default/files/colaboracion-ops-dengue-2024-mex-02-1400x666_0.jpg)]()
+
+
+[![](https://www.paho.org/sites/default/files/colaboracion-ops-dengue-2024-mex-03-1400x933_0.jpg)]()
+
+
+
+
 
 ## Conclusión
