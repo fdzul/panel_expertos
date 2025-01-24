@@ -30,7 +30,7 @@ El Dr. FADM realizó un presentación virtual sobre la identificación de los es
 
 ### Presentacion de los resultados al panel de expertos del CENAPRECE & OPS.
 
-El panel de expertos del CENAPRECE & OPS consistió de expertos en la materia consituido por los lideres de los programas estatales de prevención y control del dengue en México, investigadores mexicanos de Instituciones Académicas y los asesores expertos de OPS (la lista puede consultarse en la agenda o en el informe de la visita redactado por OPS).
+El panel de expertos del CENAPRECE & OPS consistió de expertos en la materia consituido por los lideres de los programas estatales de prevención y control del dengue en México, investigadores mexicanos de Instituciones Académicas y los asesores expertos de OPS (la lista puede consultarse en la [agenda](https://github.com/fdzul/panel_expertos/blob/main/Agenda%20Visita%20OPS%20a%20Meìxicov1.0.pdf) o en el [informe final](https://github.com/fdzul/panel_expertos/blob/main/Informe%20Visita%20Mexico_Final.pdf) de la visita redactado por OPS).
 
 
 ### Agenda de la Reunión de Visita de OPS
@@ -61,9 +61,27 @@ El panel de expertos del CENAPRECE & OPS consistió de expertos en la materia co
 [![](https://www.paho.org/sites/default/files/colaboracion-ops-dengue-2024-mex-03-1400x933_0.jpg)]()
 
 
+[![](twitter.png)](https://x.com/OPSOMSMexico/status/1833534278476697785)
+
+
 ### Informe final de la reunión
 
-[Informe Final Completo]()
+[Informe Final Completo](https://github.com/fdzul/panel_expertos/blob/main/Informe%20Visita%20Mexico_Final.pdf)
+
+
+[![](informe_final_1.png)](https://github.com/fdzul/panel_expertos/blob/main/Informe%20Visita%20Mexico_Final.pdf)
+
+[![](informe_final_2.png)](https://github.com/fdzul/panel_expertos/blob/main/Informe%20Visita%20Mexico_Final.pdf)
+
+[![](informe_final_3.png)](https://github.com/fdzul/panel_expertos/blob/main/Informe%20Visita%20Mexico_Final.pdf)
+
+
+[![](informe_final_4.png)](https://github.com/fdzul/panel_expertos/blob/main/Informe%20Visita%20Mexico_Final.pdf)
 
 
 ## Conclusión
+
+La reunión de la visita de asesoría para **Fortalecimiento las actividades de vigilancia y control del vector del Dengue en México** realizada por parte la OPS constituyó el escenario ideal para presentar los resultados de la investigación **Identificación de los escenarios operativos o epidemiológicos de la transmisión del dengue en México**. La presentación disponible [online](https://imaginative-licorice-e8a663.netlify.app), la agenda, la evidencia fotográfica y el informe final forman parte de cuerpo de conocimiento que respalda la actividad **Presentación de los resultados al panel de expertos del CENAPRECE**.
+
+
+
